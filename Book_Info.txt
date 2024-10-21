@@ -1,0 +1,20 @@
+1,Action,The Book of Dust,Philip Pullman,11,1/8/2001
+2,Fantasy,Tower of Dawn,Sarah J. Maas,20,2/1/2002
+3,Fantasy,Cruel Crown,Victoria Aveyard,32,3/2/2013
+4,Fiction,After Anna,Lisa Scottoline,14,4/3/2012
+5,Fiction,Native Son,Richard Wright,11,5/4/2014
+6,Crime,Something in the Water,Catherine Steadman,56,6/5/2015
+7,Classics,Possession,A S Byatt,45,7/6/2016
+8,Thriller,The Book of M,Peng Shepherd,13,8/7/2011
+9,Crime,The Crossing,Michael Connelly,13,9/8/2011
+10,Suspense,The Turn of the Key,Ruth Ware,16,1/9/2010
+11,Mystery,The Ice Twins,S. K. Tremayne,18,2/10/2019
+12,Fiction,Disgrace,J.M. Coetzee,19,3/11/2010
+13,Romance,Frostblood,Elly Blake,20,4/12/2020
+14,Romance,A Piece of the World,Christina Baker Kline,21,5/1/2011
+15,Biography,Hunger,Roxane Gay,34,6/2/2010
+16,Fiction,The Royal We,Heather Cocks,56,7/3/2010
+17,Fiction,The Victory Garden,Rhys Bowen,67,8/4/2021
+18,Fantasy,The Black Witch,Author,69,9/5/2008
+19,Fiction,The Hunger Games,Suzanne Collins,19,1/6/2007
+20,Fiction,Catching Fire,Suzanne Collins,11,2/7/2005
